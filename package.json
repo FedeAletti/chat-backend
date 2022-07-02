@@ -1,0 +1,21 @@
+{
+  "name": "backendnode",
+  "version": "0.1.0",
+  "description": "Un chat como telegram",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chat",
+    "telegram",
+    "server",
+    "node"
+  ],
+  "author": "Federico Aletti",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mongoose": "^6.4.0"
+  }
+}
